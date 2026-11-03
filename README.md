@@ -1,4 +1,4 @@
-<img src="Generated Image November 03, 2026 - 11_47PM.png" width="100%" alt="Profile Banner">
+<img src="banner.png" width="100%" alt="Profile Banner">
 [README.md](https://github.com/user-attachments/files/33595668/README.md)
 <p align="center">
   <a href="https://github.com/nonimml">
