@@ -1,5 +1,5 @@
 <img src="banner.png" width="100%" alt="Profile Banner">
-[README.md](https://github.com/user-attachments/files/33595668/README.md)
+<br>
 <p align="center">
   <a href="https://github.com/nonimml">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Nonim" alt="Hello! I&#39;m Nonim" />
