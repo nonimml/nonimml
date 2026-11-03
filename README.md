@@ -1,3 +1,4 @@
+<img src="[https://raw.githubusercontent.com/your-username/your-username/main/your-image-name.png](https://github.com/nonimml/nonimml/blob/main/Generated%20Image%20November%2003,%202026%20-%2011_47PM.png?raw=true)" width="100%" alt="Profile Banner">
 [README.md](https://github.com/user-attachments/files/33595668/README.md)
 <p align="center">
   <a href="https://github.com/nonimml">
